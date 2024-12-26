@@ -73,6 +73,7 @@
   height: 40px;
   width: 620px;
   border-radius: 10px;
+  border: 2.5px solid transparent;
 }
 
 .nav-search:hover {
